@@ -1,0 +1,54 @@
+Partida-f96454b1-ca34-4a99-9632-f16cf62f5112;AgenteEspia-0;AgenteSeguridad-1;[PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, ALTA_PRIORIDAD, BAJA_PRIORIDAD, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, BAJA_PRIORIDAD, BAJA_PRIORIDAD]
+EXP;SEGURIDAD;2
+EXP;ESPIA;0
+EXP;SEGURIDAD;5
+EXP;ESPIA;1
+EXP;SEGURIDAD;0
+EXP;ESPIA;1
+EXP;SEGURIDAD;7
+EXP;ESPIA;3
+EXP;ESPIA;2
+EXP;ESPIA;3
+EXP;SEGURIDAD;7
+EXP;SEGURIDAD;2
+EXP;ESPIA;3
+EXP;ESPIA;4
+EXP;ESPIA;5
+EXP;ESPIA;7
+EXP;ESPIA;8
+EXP;ESPIA;0
+EXP;ESPIA;0
+EXP;ESPIA;0
+EXP;ESPIA;0
+EST;SEGURIDAD;Asignacion{zona=0, estrategia=Estrategia{estrategia='NE', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=2, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=4, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=5, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=6, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=7, estrategia=Estrategia{estrategia='NE', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=8, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;ESPIA;Asignacion{zona=0, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=1, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=2, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=3, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=4, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=5, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=6, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=7, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=8, estrategia=Estrategia{estrategia='Evaluar Objetivos', jugador=ESPIA}}
+

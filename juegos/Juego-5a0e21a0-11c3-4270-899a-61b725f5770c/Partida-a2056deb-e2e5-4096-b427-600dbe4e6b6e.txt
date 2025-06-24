@@ -1,0 +1,51 @@
+Partida-a2056deb-e2e5-4096-b427-600dbe4e6b6e;AgenteEspia-1;AgenteSeguridad-1;[PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, ALTA_PRIORIDAD, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL, PRIORIDAD_NORMAL]
+EXP;SEGURIDAD;6
+EXP;ESPIA;0
+EXP;SEGURIDAD;0
+EXP;ESPIA;1
+EXP;ESPIA;1
+EXP;SEGURIDAD;8
+EXP;SEGURIDAD;1
+EXP;ESPIA;2
+EXP;ESPIA;3
+EXP;ESPIA;3
+EXP;ESPIA;4
+EXP;ESPIA;4
+EXP;ESPIA;8
+EXP;ESPIA;8
+EXP;ESPIA;8
+EXP;ESPIA;8
+EST;SEGURIDAD;Asignacion{zona=8, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=0, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=1, estrategia=Estrategia{estrategia='NE', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=2, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=3, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=4, estrategia=Estrategia{estrategia='NE', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=5, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;SEGURIDAD;Asignacion{zona=6, estrategia=Estrategia{estrategia='DI', jugador=SEGURIDAD}}
+
+EST;ESPIA;Asignacion{zona=0, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=1, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=2, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=3, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=4, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=5, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=6, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=7, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
+EST;ESPIA;Asignacion{zona=8, estrategia=Estrategia{estrategia='EO', jugador=ESPIA}}
+
